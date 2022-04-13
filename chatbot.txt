@@ -1,0 +1,13 @@
+chatbot
+chat window->interface-->NLP model-->corpus and application DB.
+how? 
+1.import corpus = training data need for chatbot to learn
+2.data preprocessing = text case handling, convert all input data a lowecase/uppercase
+3.Tokenization = sentences break into each individual word.
+ex-thisis == this is.
+4.stemming = find similarities between words
+
+
+1.make app.py , index.html, style , css files.
+2. Requisites:- Flask , pip, chatterbot, chatterbot_corpus
+3.
